@@ -2,7 +2,7 @@
 
 ## Menu
 - [Complete table of results](complete_table_of_results.pdf)
-- [Taxonomy of constraints](#taxonomy)
+- [Taxonomy of constraints](#taxonomy-of-constraints)
 - [Explanation of bad cases](#explanation-of-bad-cases)
 - [Comparison to the baseline](#comparison-to-the-baseline)
     - [Examples of Focus and baseline](#examples-of-focus-and-baseline)
