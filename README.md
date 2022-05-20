@@ -1,4 +1,4 @@
-# Supplementary Materail of the Evaluation of Expressiveness
+# Supplementary Material of the Evaluation of Expressiveness
 
 ## Menu
 - [Complete table of results](complete_table_of_results.pdf)
