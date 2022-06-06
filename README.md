@@ -1,6 +1,6 @@
 # Supplementary Material of the Evaluation of Expressiveness
 
-## Table of content
+## Table of contents
 - [Complete table of results](complete_table_of_results.pdf)
 - [Taxonomy of constraints](#taxonomy-of-constraints)
 - [Explanation of bad cases](#explanation-of-bad-cases)
