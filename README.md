@@ -1,4 +1,4 @@
-# Supplementary Material of the Evaluation of Expressiveness
+# Supplementary Material of *RQ1: the Evaluation of Expressiveness*
 
 ## Table of contents
 - [Complete table of results](complete_table_of_results.pdf)
